@@ -10,7 +10,7 @@ string fortuneCookie() {
     cin >> choice;
     switch (choice) {
         case 1:
-            fortune = "You will stop breathing when you live :O\n";
+            fortune = "You will stop breathing when you die :O\n";
             break;
         case 2:
             fortune = "You will have a lot of money if ur parents are rich :O\n";
